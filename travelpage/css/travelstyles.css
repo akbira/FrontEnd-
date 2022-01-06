@@ -1,0 +1,36 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    
+
+}
+
+#menu{
+    
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+}
+
+a{
+    text-decoration: none;
+    margin-inline: 20px;
+    font-size: 16px;
+    font-family: Helvetica;
+    color: #58595B;
+}
+
+.button{
+    font-weight: bold;
+}
+
+#main{
+    
+    margin-bottom: 120px;
+    width: 90%;
+    
+}
+
